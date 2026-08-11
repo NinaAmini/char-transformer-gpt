@@ -3,6 +3,8 @@ venv/
 .venv/
 env/
 
+.ipynb_checkpoints/
+
 # Ignore Python byte code files
 __pycache__/
 *.pyc
